@@ -1,8 +1,8 @@
 {
   "proofsEnabled": false,
   "deploy": {
-    "optimism": "XCounterUC",
-    "base": "XCounterUC"
+    "optimism": "PolymerLottery",
+    "base": "PolymerLottery"
   },
   "isUniversal": true,
   "createChannel": {

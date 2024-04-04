@@ -1,8 +1,8 @@
 {
   "proofsEnabled": false,
   "deploy": {
-    "optimism": "XCounterUC",
-    "base": "XCounterUC"
+    "optimism": "PolymerLottery",
+    "base": "PolymerLottery"
   },
   "isUniversal": true,
   "createChannel": {
@@ -28,13 +28,13 @@
   },
   "sendUniversalPacket": {
     "optimism": {
-      "portAddr": "0x1234567890abcdef1234567890abcdef12345678",
-      "channelId": "channel-x",
+      "portAddr": "0x619859d90594231A4054C9ec1D2F0Fd9EC84CAB9",
+      "channelId": "channel-10",
       "timeout": 36000
     },
     "base": {
-      "portAddr": "0x1234567890abcdef1234567890abcdef12345678",
-      "channelId": "channel-y",
+      "portAddr": "0x60752A707553E31e2C0afBD815f90824Ee90525a",
+      "channelId": "channel-11",
       "timeout": 36000
     }
   },
